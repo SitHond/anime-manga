@@ -12,7 +12,7 @@
 <header>
     <div id="header-form">
         <div class="posit">
-            <button class="btn" onclick="document.location='/anime.php'">Главнвя</button>
+            <button class="btn-act" onclick="document.location='/anime.php'">Главнвя</button>
             <button class="btn" onclick="document.location='/anime.php'">Аниме</button>
             <button class="btn" onclick="document.location='/anime.php'">Манга</button>
             <button class="btnn" onclick="document.location='/anime.php'">Случайное аниме</button>

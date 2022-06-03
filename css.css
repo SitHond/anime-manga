@@ -26,6 +26,17 @@ body{
 .btn:hover{
     color: #ff4500;
 }
+.btn-act{
+    background-color: #ff4500;
+    border: 0;
+    width: 100px;
+    height: 70px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.btn-act:hover{
+    color: gray;
+}
 
 .btnn{
     background-color: transparent;
