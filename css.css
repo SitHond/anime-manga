@@ -1,4 +1,6 @@
-
+body{
+    background-color: dimgrey;
+}
 #header-form{
     position: absolute;
     background-color: #293133;
@@ -43,5 +45,19 @@
     position: absolute;
     left: 20%;
 }
-
+#button-reg{
+    position: absolute;
+    top: 22.5%;
+    left: 80%;
+}
+.button-regg{
+    font-size: 30px;
+    background-color: gray;
+    border: 1px;
+    color: #293133;
+    border-color: dimgrey;
+}
+.button-regg:hover{
+    color: #ff4500;
+}
 

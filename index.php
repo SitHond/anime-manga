@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="ru">
 <head>
-    <link rel="stylesheet" type="text/css" href="css.css">
+    <link rel="stylesheet" type="text/css" href="css.css"> <!--подключение css файла-->
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -15,8 +15,11 @@
             <button class="btn" onclick="document.location='/anime.php'">Главнвя</button>
             <button class="btn" onclick="document.location='/anime.php'">Аниме</button>
             <button class="btn" onclick="document.location='/anime.php'">Манга</button>
-            <button class="btnn" onclick="document.location='/anime.php'">Случайное аниме</button></button>
+            <button class="btnn" onclick="document.location='/anime.php'">Случайное аниме</button>
         </div>
+    </div>
+    <div id="button-reg">
+        <button class="button-regg" onclick="document.location='/reg.php'">Войти</button>
     </div>
 </header>
 </body>
